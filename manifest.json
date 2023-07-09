@@ -1,0 +1,19 @@
+{
+  
+  "manifest_version": 3,
+  "name": "webcompiler",
+  "version": "1.0",
+
+  
+  "action": {
+    "default_popup":"popup/popup.html"
+  },
+  "default_locale": "en",
+  "description": "A plain text description",
+  "icons": {},
+
+  
+  "author": "developer@example.com"
+  
+
+}
