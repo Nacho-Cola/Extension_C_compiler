@@ -8,7 +8,7 @@
   "action": {
     "default_popup":"popup/popup.html"
   },
-  "default_locale": "en",
+  
   "description": "A plain text description",
   "icons": {},
 
